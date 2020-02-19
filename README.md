@@ -9,11 +9,17 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 
 ## ELEVATOR PICTH
 **Para**  prestador de serviço/ cliente final.
+
 **cujo/ que**  facilita o processo de marcação.
+
 **O** Schedule Beauty.
+
 **É um** software.
+
 **que** auxilia o profissional dando autonomia aos seus clientes no agendamento.
+
 **diferentemente** do fluxo atual que, obriga o profissional a interromper sua atividade atual para interagir com o cliente, assim como o cliente sujeita-se a aguardar o retorno do profissional para concluir o agendamento.
+
 **O nosso produto** visa otimizar em tempo de marcação dando autonomia ao cliente, diminuindo as complexidades de pergunta e resposta.
 
 ## Objetivos de Negócio
