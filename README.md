@@ -52,7 +52,7 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |        |           |SpringBoot |          |              |           |           |
 |        |           |Grandle    |          |              |           |           |
 
-## História de Usuário - três aspectos críticos ( 3Cs)
+## História de Usuário - _três aspectos críticos ( 3Cs)_
 **Eu, enquanto** estiver em atendimento
 
 **quero** que meus clientes tenham autonomia para agendar meus serviços
