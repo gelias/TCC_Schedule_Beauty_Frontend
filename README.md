@@ -1,13 +1,13 @@
 # Schedule_Front
 Criando ambiente visual e com usabilidade adotando práticas do UX
 
-#h1 PROJETO SELECIONADO
+## PROJETO SELECIONADO
 Aplicação web e mobile
 
-#h1 VISÃO DO PRODUTO
+## VISÃO DO PRODUTO
 Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes em marcar seu agendamento.
 
-#h1 ELEVATOR PICTH
+## ELEVATOR PICTH
 *Para*  prestador de serviço/ cliente final
 *cujo/ que*  facilita o processo de marcação
 *O* Schedule Beauty
@@ -16,7 +16,7 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 *diferentemente* do fluxo atual que, obriga o profissional a interromper sua atividade atual para interagir com o cliente, assim como o cliente sujeita-se a aguardar o retorno do profissional para concluir o agendamento.
 *O nosso produto* visa otimizar em tempo de marcação dando autonomia ao cliente, diminuindo as complexidades de pergunta e resposta.
 
-#h1 Objetivos de Negócio
+## Objetivos de Negócio
 | Prioridade |Objetivo do Produto | Resultado               |
 |------------|--------------------|-------------------------|
 |     1      |marcar serviço      |diminuir perda de cliente|
@@ -24,10 +24,10 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |            |de tempo de ambos   |                         |
 |     3      |garantir retorno    |satisfação em tempo real |
 
-#Personas
+## Personas
  - Cliente ( 98% mulheres, 99% trabalha fora, 70% mães) faixa de idade 20 a 50 anos.
  
-# Entendendo o Produto
+## Entendendo o Produto
 |É         |Não é        |Faz                    |Não Faz                  |
 |----------|-------------|-----------------------|-------------------------|
 |Web       |chat         |Agendamento            |Pagamento                |
@@ -37,7 +37,7 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |          |             |informa valores        |Busca                    |
 |          |             |identifica pelo e-mail |                         |
 
-# Mapa de Tecnologias
+## Mapa de Tecnologias
 |App     |Front      |Back   --  |BD        |Versionamento |Qualidade  |Segurança  |
 |--------|-----------|-----------|----------|--------------|-----------|-----------|
 |Java    |Html       |Java 8     |H2        |Github        |Junit      |           |
@@ -46,12 +46,12 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |        |           |SpringBoot |          |              |           |           |
 |        |           |Grandle    |          |              |           |           |
 
-# h1 História de Usuário - três aspectos críticos ( 3Cs)
+## História de Usuário - três aspectos críticos ( 3Cs)
 *Eu, enquanto* estiver em atendimento
 *quero* que meus clientes tenham autonomia para agendar meus serviços
 *para* que eu possa garantir atendimento a todos que me solicitarem sem retardo na resposta.
 
-# h1 Critério de aceitação
+## Critério de aceitação
 - [x] cada serviço terá 15min de atendimento, sendo usado como parâmetro no agendamento
 - [x] para cada serviço agendado acrescentar 15min de deslocamento
 - [x] cada agendamento concluído deverá enviar confirmação por e-mail profissional e cliente
