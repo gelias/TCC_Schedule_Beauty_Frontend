@@ -8,13 +8,13 @@ Aplicação web e mobile
 Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes em marcar seu agendamento.
 
 ## ELEVATOR PICTH
-*Para*  prestador de serviço/ cliente final
-*cujo/ que*  facilita o processo de marcação
-*O* Schedule Beauty
-*É um* software
-*que* auxilia o profissional dando autonomia aos seus clientes no agendamento
-*diferentemente* do fluxo atual que, obriga o profissional a interromper sua atividade atual para interagir com o cliente, assim como o cliente sujeita-se a aguardar o retorno do profissional para concluir o agendamento.
-*O nosso produto* visa otimizar em tempo de marcação dando autonomia ao cliente, diminuindo as complexidades de pergunta e resposta.
+**Para**  prestador de serviço/ cliente final
+**cujo/ que**  facilita o processo de marcação
+**O** Schedule Beauty
+**É um** software
+**que** auxilia o profissional dando autonomia aos seus clientes no agendamento
+**diferentemente** do fluxo atual que, obriga o profissional a interromper sua atividade atual para interagir com o cliente, assim como o cliente sujeita-se a aguardar o retorno do profissional para concluir o agendamento.
+**O nosso produto** visa otimizar em tempo de marcação dando autonomia ao cliente, diminuindo as complexidades de pergunta e resposta.
 
 ## Objetivos de Negócio
 | Prioridade |Objetivo do Produto | Resultado               |
@@ -38,7 +38,7 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |          |             |identifica pelo e-mail |                         |
 
 ## Mapa de Tecnologias
-|App     |Front      |Back   --  |BD        |Versionamento |Qualidade  |Segurança  |
+|App     |Front      |Back       |BD        |Versionamento |Qualidade  |Segurança  |
 |--------|-----------|-----------|----------|--------------|-----------|-----------|
 |Java    |Html       |Java 8     |H2        |Github        |Junit      |           |
 |        |Css        |Rest       |          |              |Postman    |           |
@@ -47,9 +47,9 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |        |           |Grandle    |          |              |           |           |
 
 ## História de Usuário - três aspectos críticos ( 3Cs)
-*Eu, enquanto* estiver em atendimento
-*quero* que meus clientes tenham autonomia para agendar meus serviços
-*para* que eu possa garantir atendimento a todos que me solicitarem sem retardo na resposta.
+**Eu, enquanto** estiver em atendimento
+**quero** que meus clientes tenham autonomia para agendar meus serviços
+**para** que eu possa garantir atendimento a todos que me solicitarem sem retardo na resposta.
 
 ## Critério de aceitação
 - [x] cada serviço terá 15min de atendimento, sendo usado como parâmetro no agendamento
