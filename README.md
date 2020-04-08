@@ -119,6 +119,19 @@ __
 
 **ENTÃO** o sistema me direciona para a tela de cadastro contendo Nome, endereço e telefone.
 
+__
+
+**Cenário 3: Agendamento desconectado da internet**
+
+**DADO QUE** 
+
+**E**  
+
+**QUANDO** 
+
+**ENTÃO** 
+
+
 
 ## Critério de aceitação
 - [x] cada serviço terá 15min de atendimento, sendo usado como parâmetro no agendamento
