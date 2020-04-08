@@ -92,6 +92,33 @@ __
 
 **Para que**   assim possa garantir o usufruto do serviço contratado.
 
+## CENÁRIOS
+### Cliente que contrata os serviços do profissional liberal
+
+**Cenário 1: Agendamento conectado na internet**
+
+**DADO QUE** estou com rede no meu dispositivo 
+
+**E**        já estou no sistema Schedule
+
+**QUANDO**   solicito agendamento
+
+**ENTÃO**    o sistema apresenta duas opções “ Já sou cadastrado” e “ Cadastrar-se”
+
+__
+
+**Cenário 2: Agendamento conectado na internet primeiro acesso**
+
+**DADO QUE**  estou com rede no meu dispositivo 
+
+**E**  já estou no sistema Schedule
+
+**E** não sou cadastrado 
+
+**QUANDO** clico na opção “ Cadastrar-se”
+
+**ENTÃO** o sistema me direciona para a tela de cadastro contendo Nome, endereço e telefone.
+
 
 ## Critério de aceitação
 - [x] cada serviço terá 15min de atendimento, sendo usado como parâmetro no agendamento
