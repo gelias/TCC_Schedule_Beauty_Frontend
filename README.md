@@ -55,9 +55,18 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
 **Eu, enquanto** estiver em atendimento
 
-**quero** que meus clientes tenham autonomia para agendar meus serviços
+**quero** que meus clientes tenham autonomia para _agendar_ meus serviços
 
 **para** que eu possa garantir atendimento a todos que me solicitarem sem retardo na resposta.
+__
+**Eu, enquanto** estiver em atendimento
+**quero** que meus clientes tenham autonomia para _editar_ suas marcações na agenda
+**para** que eu possa garantir atendimento à todos corretamente
+__
+**Eu, enquanto** estiver em atendimento
+**quero** _acessar_ aos agendamentos de meus clientes
+**para** que eu possa garantir atendimento a todos os agendados
+
 
 ## Critério de aceitação
 - [x] cada serviço terá 15min de atendimento, sendo usado como parâmetro no agendamento
