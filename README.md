@@ -31,7 +31,9 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |     3      |garantir retorno    |satisfação em tempo real |
 
 ## Personas
- - Cliente ( 98% mulheres, 99% trabalha fora, 70% mães) faixa de idade 20 a 50 anos.
+ - Cliente que contratará os serviços do profissional( 98% mulheres, 99% trabalha fora, 70% mães) faixa de idade 20 a 50 anos.
+ 
+ - Cliente profissional liberal prestador dos serviços estéticos 
  
 ## Entendendo o Produto
 |É         |Não é        |Faz                    |Não Faz                  |
@@ -53,6 +55,9 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |        |           |Grandle    |          |              |           |           |
 
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
+
+### **Profissional Liberal**
+
 **Eu, enquanto** estiver em atendimento
 
 **quero** que meus clientes tenham autonomia para _agendar_ meus serviços
@@ -73,7 +78,19 @@ __
 
 **quero** _acessar_ aos agendamentos de meus clientes
 
-**para** que eu possa garantir atendimento a todos os agendados
+**para** que eu possa garantir atendimento a todos os agendados.
+
+__
+
+### **Cliente que contratará os serviços do profissional liberal**
+
+**Como um**   cliente do prestador de serviço 
+
+**Eu posso** 	cadastrar(editar) meus dados de endereço, telefone
+
+**E** 			     escolher, agendar, editar e cancelar serviços estéticos
+
+**Para que**   assim possa garantir o usufruto do serviço contratado.
 
 
 ## Critério de aceitação
