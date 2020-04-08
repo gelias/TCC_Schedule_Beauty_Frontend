@@ -78,7 +78,7 @@ __
 
 **quero** _acessar_ aos agendamentos de meus clientes
 
-**para** que eu possa garantir atendimento a todos os agendados.
+**para** que eu possa garantir atendimento à todos os agendados.
 
 __
 
