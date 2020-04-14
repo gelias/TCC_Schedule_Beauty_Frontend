@@ -123,13 +123,140 @@ __
 
 **Cenário 3: Agendamento desconectado da internet**
 
-**DADO QUE** 
+**DADO QUE** estou sem rede no meu dispositivo
 
-**E**  
+**E**  tento acessar o aplicativo
 
-**QUANDO** 
+**QUANDO** clico no ícone do app mobile 
 
-**ENTÃO** 
+**E** ou acesso via web pela URL do site Schedule
+
+**ENTÃO** o sistema lança uma mensagem " Página não encontrada".
+
+___
+
+
+**Cenário 4: Cliente efetuando o cadastro**
+
+**DADO QUE** estou com rede 
+
+**E**  acesso o aplicativo
+
+**QUANDO** clico no ícone me cadastrar sou direcionado a um fomulário com (Nome, celular, endereço e e-mail)
+
+**E** quando clico em salvar
+
+**ENTÃO** o sistema lança uma mensagem " Cadastro efetuado com sucesso".
+
+**ENTÃO** o sistema me direciona para a tela inicial.
+
+___
+
+
+**Cenário 5: Cliente agendando um serviço após concluir cadastro**
+
+**DADO QUE** estou ainda logado pois recém fiz meu cadastro
+
+**E**  tenho interesse em marcar um horário de depilação
+
+**QUANDO** clico em serviços
+
+**E** seleciono o serviço desejado
+
+**ENTÃO** o sistema direciona para a tela da agenda com os dias e horários disponíveis
+
+**QUANDO** seleciono a data e o horário desejado 
+
+**E** e esta opção está liberada para marcação
+
+**ENTÃO** o sistema envia uma mensagem na tela e por e-mail ( Cliente e profissional) " Horário agendado + dados selecionados".
+
+---
+
+**Cenário 6: Cliente tentando agendar um serviço após concluir cadastro, mas o horário não está disponível**
+
+**DADO QUE** estou ainda logado pois recém fiz meu cadastro
+
+**E**  tenho interesse em marcar um horário de depilação
+
+**QUANDO** clico em serviços
+
+**E** seleciono o serviço desejado
+
+**ENTÃO** o sistema direciona para a tela da agenda com os dias e horários disponíveis
+
+**QUANDO** seleciono a data e o horário desejado 
+
+**E** e esta opção não está liberada para marcação
+
+**ENTÃO** o sistema envia uma mensagem na tela " Horário não disponível =( , tente nas opções disponíveis sinalizados na cor VERDE =) ".
+
+___
+
+**Cenário 7: Cliente agendando um serviço e já possui cadastro**
+
+**DADO QUE** estou acessando o app
+
+**E**  tenho interesse em marcar um horário de depilação
+
+**QUANDO** digito meu telefone no campo em branco
+
+**E** seleciono o botão " Já tenho cadastro"
+
+**ENTÃO** o sistema direciona para a tela da agenda com os dias e horários disponíveis tendo o nome do cliente no topo da página
+
+**QUANDO** seleciono a data e o horário desejado 
+
+**E** e esta opção está liberada para marcação
+
+**ENTÃO** o sistema envia uma mensagem na tela e por e-mail ( Cliente e profissional) " Horário agendado + dados selecionados".
+
+___
+
+**Cenário 8: Cliente agendando um serviço mas seu telefone não foi informado corretamente**
+
+**DADO QUE** estou acessando o app
+
+**E**  tenho interesse em marcar um horário de depilação
+
+**QUANDO** digito meu telefone no campo em branco (com um número errado)
+
+**E** seleciono o botão " Já tenho cadastro"
+
+**ENTÃO** o sistema envia uma mensagem em tela " Este número não foi localizado em nosso cadastro, tente novamente ou realize seu cadastro"
+
+**QUANDO** seleciono "Nova tentativa" **e ou** " Cadastre-se"
+
+**ENTÃO** o sistema direciona para a tela de login **e ou** para a tela de formulário de cadastro
+
+___
+
+**Cenário 9: Cliente edita informações do seu cadastro**
+
+**DADO QUE** estou acessando o app
+
+**E**  tenho interesse em editar meus dados do cadastro
+
+**QUANDO** digito meu telefone no campo em branco (com um número errado)
+
+**E** seleciono o botão " Já tenho cadastro"
+
+**ENTÃO** o sistema direciona para a tela da agenda com os dias e horários disponíveis tendo o nome do cliente no topo da página
+
+**QUANDO** seleciono a opção de " Editar Cadastro" contido no rodapé da página
+
+**ENTÃO** o sistema direciona para a tela de formulário de cadastro
+
+**QUANDO** editado os dados desejados
+
+**E** clico em "Salvar"
+
+**ENTÃO** o sistema emite uma mensagem " Dados salvos com sucesso!" e direciona a tela da agenda.
+
+___
+
+
+___
 
 
 
