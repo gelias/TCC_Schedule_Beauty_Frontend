@@ -270,3 +270,9 @@ ___
 - [x] sistema bloqueia agendamento em duplicidade ( mesmo cliente para o mesmo serviço)
 - [x] sistema permite o cancelamento pelo cliente(envia notificação), mas o horário só é liberado pelo profissonal.
 
+
+## Protótipo (Figma)
+
+https://www.figma.com/proto/NHNSNTqDyTxFkSYivFs8in/Schedule-Beauty?node-id=1%3A5&viewport=322%2C6874%2C0.5&scaling=scale-down
+
+___
