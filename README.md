@@ -41,7 +41,7 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
 |Web       |chat         |Agendamento                |Pagamento                |
 |Mobile    |offline      |notificação via e-mail     |armazenamento retroativo |
 |Público   |             |informa disponibilidade    |registro de senha        |
-|          |             |informa serviços           |Localização por PS       |
+|          |             |informa serviços           |Localização por GPS      |
 |          |             |informa valores            |Busca                    |
 |          |             |identifica pelo n°telefone |                         |
 
