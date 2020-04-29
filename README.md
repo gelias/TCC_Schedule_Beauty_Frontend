@@ -276,3 +276,25 @@ ___
 https://www.figma.com/proto/NHNSNTqDyTxFkSYivFs8in/Schedule-Beauty?node-id=1%3A5&viewport=322%2C6874%2C0.5&scaling=scale-down
 
 ___
+
+## Especificação do trabalho/UML/ 
+
+**Diagrama ER**
+
+https://drive.google.com/file/d/1kB5coMnFdEN_mIY-_aXj7OVEpNxChcWC/view?usp=sharing
+
+**Diagrama de Fluxo de Dados N1**
+
+https://drive.google.com/file/d/1NeWHxpeR7aSmtsK-vUcuMZknqiyoxPII/view?usp=sharing
+
+**Diagrama de Classe**
+
+https://drive.google.com/file/d/1YprDawF98LVqJxWVOBJARhOdQbKVx99R/view?usp=sharing
+
+**Diagrama Caso de Uso**
+
+https://sitemap.mockflow.com/view/M292915abcbfc8bd98e09511adba76eed1586897500482
+
+**Diagrama de Componente**
+
+__
