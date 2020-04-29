@@ -277,7 +277,7 @@ https://www.figma.com/proto/NHNSNTqDyTxFkSYivFs8in/Schedule-Beauty?node-id=1%3A5
 
 ___
 
-## Especificação do trabalho/UML/ 
+## Especificação do trabalho/ UML - Unified Modeling Language/ 
 
 **Diagrama ER**
 
