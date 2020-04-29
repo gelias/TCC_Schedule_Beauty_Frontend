@@ -36,14 +36,14 @@ Sistema que auxiliará o profissional liberal, dando autonomia aos seus clientes
  - Cliente profissional liberal prestador dos serviços estéticos 
  
 ## Entendendo o Produto
-|É         |Não é        |Faz                    |Não Faz                  |
-|----------|-------------|-----------------------|-------------------------|
-|Web       |chat         |Agendamento            |Pagamento                |
-|Mobile    |offline      |notificação via e-mail |armazenamento retroativo |
-|Público   |             |informa disponibilidade|registro de senha        |
-|          |             |informa serviços       |Localização por PS       |
-|          |             |informa valores        |Busca                    |
-|          |             |identifica pelo e-mail |                         |
+|É         |Não é        |Faz                        |Não Faz                  |
+|----------|-------------|---------------------------|-------------------------|
+|Web       |chat         |Agendamento                |Pagamento                |
+|Mobile    |offline      |notificação via e-mail     |armazenamento retroativo |
+|Público   |             |informa disponibilidade    |registro de senha        |
+|          |             |informa serviços           |Localização por PS       |
+|          |             |informa valores            |Busca                    |
+|          |             |identifica pelo n°telefone |                         |
 
 ## Mapa de Tecnologias
 |App     |Front      |Back       |BD        |Versionamento |Qualidade  |Segurança  |
